@@ -19,6 +19,7 @@ https://www.elremont.ru/forum/viewtopic.php?t=34614
 DZ99Y1F-10BD
 ```
 газ R600a - 65 грамм
+```
 t °C  	Давление, bar: (R600a)
 -40		-0,71
 -35		-0,62
@@ -42,7 +43,7 @@ t °C  	Давление, bar: (R600a)
 55		6,79
 60		7,72
 70		9,91
-
+```
 
 https://github.com/AlexTransit/Toshiba-GR-L42FR/wiki/Errors
 [[Errors|Errors]]
