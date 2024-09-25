@@ -18,7 +18,11 @@ https://www.elremont.ru/forum/viewtopic.php?t=34614
 ```
 DZ99Y1F-10BD
 ```
-газ R600a - 65 грамм
+газ R600a - 65 грамм.
+
+Зависимость температуры кипения фреонов от давления
+https://www.xiron.ru/content/view/10/27/
+
 ```
 t °C  	Давление, bar: (R600a)
 -40		-0,71
